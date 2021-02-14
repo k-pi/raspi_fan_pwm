@@ -64,7 +64,7 @@ That's all.
 
 ## 3. License
 This program is licenced under CC0.  
-For detail, see [LICENCE](./LICENCE) file.
+For detail, see [LICENSE](./LICENSE) file.
 
 ## 4. Post-Script
 I'm not a native English speaker.  
